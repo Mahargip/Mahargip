@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahargip&show_icons=true&locale=en" alt="mahargip" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahargip&" alt="mahargip" /></p>
