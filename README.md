@@ -1,18 +1,8 @@
-<h1 align="center">Hi, I'm Maha 👋</h1>
+<h1 align="center">Hi, I'm Maha </h1>
 
-<p align="center">
-  <em>Mobile Developer, Machine Learning, Game Tools Developer & Automation Enthusiast</em>
-</p>
+### 🎮 Featured Projects
 
----
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Mahargip/achievement-item-tracker-gw2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahargip&repo=achievement-item-tracker-gw2&theme=tokyonight&show_owner=true" alt="Achievement Item Tracker GW2" />
-  </a>
-  <a href="https://github.com/Mahargip/wherewindsmeet_autoredeemer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahargip&repo=wherewindsmeet_autoredeemer&theme=tokyonight&show_owner=true" alt="Where Winds Meet Auto Redeemer" />
-  </a>
-</p>
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+|  **Achievement Item Tracker** | In-game Blish HUD overlay for Guild Wars 2 that searches achievements, lists required items, and aggregates live totals across bags, bank, and material storage. | `C#` `.NET 4.8` `Blish HUD` `GW2 API` | [**View Repo**](https://github.com/Mahargip/achievement-item-tracker-gw2) |
+|  **Where Winds Meet Auto Redeemer** | Automated code redemption tool and helper script for Where Winds Meet. | `Python` `Automation` | [**View Repo**](https://github.com/Mahargip/wherewindsmeet_autoredeemer) |
