@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Maha </h1>
 
-### 🎮 Featured Projects
+<h2>Mobile Developer, Machine Learning, Game Tools Dev & Automation Enthusiast</h2>
+
+### Featured Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
